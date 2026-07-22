@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/Rohit-code-77/Javascript-leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Rohit-code-77/Javascript-leetcode/tree/master/0595-big-countries) |
+| [1148-article-views-i](https://github.com/Rohit-code-77/Javascript-leetcode/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Rohit-code-77/Javascript-leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [3554-find-category-recommendation-pairs](https://github.com/Rohit-code-77/Javascript-leetcode/tree/master/3554-find-category-recommendation-pairs) |
 | [3586-find-covid-recovery-patients](https://github.com/Rohit-code-77/Javascript-leetcode/tree/master/3586-find-covid-recovery-patients) |
